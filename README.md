@@ -21,3 +21,5 @@ Line 187: Change a value in 'data_files' accordingly; Default [1:100] means to l
 
 Please note that at the beginning of the run, it shows eta, but it is not so accurate.  
 If R script stopped running without output under results folder, check results_chunks folder and adjust line 187 so it can resume from where it stopped.  
+
+Last update: 06/04/2021
