@@ -2,7 +2,7 @@
 This repository is to share R project to check many URLs by chunk
 
 Original source: https://stackoverflow.com/questions/52911812/check-if-url-exists-in-r  
-Heaps of help from @joelnitta (https://github.com/joelnitta)
+Heaps of help from @joelnitta (https://github.com/joelnitta/url-check-chunks)
 
 This takes a CSV file as input and checks the status of URLs in chunks in parallel.
 
